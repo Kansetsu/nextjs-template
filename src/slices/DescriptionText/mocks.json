@@ -1,0 +1,14 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"sandwich_menu": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "1"
+			}
+		},
+		"items": []
+	}
+]

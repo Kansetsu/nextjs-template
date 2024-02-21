@@ -1,0 +1,30 @@
+{
+  "id": "description_text",
+  "type": "SharedSlice",
+  "name": "DescriptionText",
+  "description": "DescriptionText",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "sandwich_menu": {
+          "type": "Select",
+          "config": {
+            "label": "Sandwich Menu",
+            "placeholder": "",
+            "options": [
+              "1",
+              "2"
+            ]
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

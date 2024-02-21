@@ -1,0 +1,19 @@
+{
+  "id": "portfolio_content",
+  "label": "Portfolio Content",
+  "repeatable": true,
+  "status": true,
+  "format": "custom",
+  "json": {
+    "Main": {
+      "projects_pictures": {
+        "type": "Image",
+        "config": {
+          "label": "Projects Pictures",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}
